@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/mhdAlaaBg/bloc_training_flutterly/BuildConfig.java
+ com.mhdAlaaBg.bloc_training_flutterly.BuildConfig
